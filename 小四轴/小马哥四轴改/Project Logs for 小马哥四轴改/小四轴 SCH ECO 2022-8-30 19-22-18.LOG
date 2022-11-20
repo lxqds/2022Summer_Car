@@ -1,4 +1,0 @@
-Remove Pin=SWD?-1 From Net=PA10
-Remove Pin=SWD?-2 From Net=PA9
-Change Pin Designator/Name:  Old Designator=Y1-3 Old Name=3 New Designator =1 New Name=1
-Change Pin Designator/Name:  Old Designator=Y1-1 Old Name=1 New Designator =3 New Name=3

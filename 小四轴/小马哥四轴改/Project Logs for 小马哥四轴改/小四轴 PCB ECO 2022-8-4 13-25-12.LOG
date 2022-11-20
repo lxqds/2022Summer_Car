@@ -1,8 +1,0 @@
-Added Component: Designator=S1(SW-TH_OS102011MS2QN1)
-Add component (AddParameter): Name = "PackageReference"; Value = "SWITCH_PWR"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Published"; Value = "10-August-2017"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Publisher"; Value = "mazhongwei"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=VBAT Pin=S1-2
-Added Pin To Net: NetName=NetBAT1_1 Pin=S1-3
-Added Member To Class: ClassName=小四轴 Member=Component S1 SW-SPDT
-Added Room: Name=小四轴
