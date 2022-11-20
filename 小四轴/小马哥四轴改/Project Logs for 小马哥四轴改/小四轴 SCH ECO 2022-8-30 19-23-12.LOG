@@ -1,0 +1,2 @@
+Remove Pin=UART-1 From Net=PA9
+Remove Pin=UART-2 From Net=PA10
